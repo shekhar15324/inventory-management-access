@@ -23,6 +23,7 @@ Stock status and valuation
 📁 Database Structure
 
 1. Suppliers
+
 | Field        | Description              |
 | ------------ | ------------------------ |
 | SupplierID   | Primary Key (AutoNumber) |
